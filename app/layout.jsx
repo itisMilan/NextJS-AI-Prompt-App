@@ -12,14 +12,14 @@ function RootLayout({children}) {
     <html lang='en'>
         <body>
             <div className='main'>
-                <div className='gradient'>
-
-                </div>
+                <div className='gradient'/>
+</div>
+              
                 <main className='app'>
                     <Nav/>
                     {children}
                 </main>
-            </div>
+            
         </body>
 
     </html>
