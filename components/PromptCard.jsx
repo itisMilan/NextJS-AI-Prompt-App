@@ -10,8 +10,8 @@ import { usePathname, useRouter } from "next/navigation";
 const PromptCard = ({ post, handleTagClick, handleEdit, handleDelete }) => {
   const [copied, setCopied] = useState("");
   const {data:session}=useSession();
-console.log(post.creator.id)
-console.log(session.user.id)
+// console.log(post.creator.id)
+// console.log(session.user.id)
   const pathName=usePathname();
   const handleProfileClick=()=>{
 
