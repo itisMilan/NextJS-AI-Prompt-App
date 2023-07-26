@@ -4,7 +4,7 @@ PromptLand is a web application that I created during my Next.js learning journe
 
 ## Demo
 
-You can check out PromptLand in action by visiting the following link: [PromptLand Demo](next-js-ai-prompt-app.vercel.app)
+You can check out PromptLand in action by visiting the following link: [PromptLand Demo](next-js-ai-prompt-hwhcu854f-itismilan.vercel.app)
 
 ## How It's Made:
 
@@ -38,4 +38,4 @@ PromptLand might have been my Next.js milestone, but it's essential to remember 
 
 ## Join me in PromptLand and let's grow together as developers! 🚀👩‍💻
 
-[Link to PromptLand - Your Next.js Learning Adventure](next-js-ai-prompt-app.vercel.app)
+[Link to PromptLand - ](next-js-ai-prompt-hwhcu854f-itismilan.vercel.app)
